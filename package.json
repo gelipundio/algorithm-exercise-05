@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-exercise-05",
+  "version": "1.0.0",
+  "description": "find the number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelipundio/algorithm-exercise-05.git"
+  },
+  "author": "fndefunction",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelipundio/algorithm-exercise-05/issues"
+  },
+  "homepage": "https://github.com/gelipundio/algorithm-exercise-05#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
