@@ -38,7 +38,4 @@ Your solution must to return a boolean value, example:
 
 Hints:
 1. do you know the importance to sort data?
-2. do you know bubble sort?
-3. do you know binary search?
-
-
+2. do you know binary search?
